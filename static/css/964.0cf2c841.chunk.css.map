@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/964.0cf2c841.chunk.css","mappings":"AAAA,WACE,aAEA,kBACE,kBAGF,uBAEE,mBADA,WACA","sources":["components/UserTable/index.scss"],"sourcesContent":[".container {\n  padding: 30px;\n\n  .title {\n    text-align: center;\n  }\n\n  .search_ipt {\n    width: 256px;\n    margin-bottom: 20px;\n  }\n}"],"names":[],"sourceRoot":""}
